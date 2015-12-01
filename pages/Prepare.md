@@ -80,11 +80,13 @@ main =
 Dann nacheinander folgende Tests:
 
 1. Aufruf von `elm-make Main.elm --output Main.html`, dann Öffnen von `Main.html` in einem Browser.  
-   Passiert etwas Sinnvolles?
+   Passiert etwas Sinnvolles?  
+   Als Definition von "sinnvoll" gilt hier folgende Konstellation mit Hochzählen der Anzeige bei jedem Druck auf den Knopf:
+   ![Haus des Nikolaus](../images/Test.png)
 2. Aufruf von `elm-reactor`, dann Öffnen von `http://localhost:8000/` in einem Browser, dort Klick auf `Main.elm`.  
    Passiert wieder etwas Sinnvolles?
 3. Wie im vorigen Punkt, jedoch statt Klick auf `Main.elm` nun Klick auf das Werkzeugsymbol links davon.  
-   Passiert etwas Sinnvolles und lässt sich nach ein paar Button-Klicks mit dem Schieber rechts die Zeit "vor-/zurückdrehen"?
+   Passiert etwas Sinnvolles und lässt sich nach ein paar Knopfdrücken mit dem Schieber rechts die Zeit "vor-/zurückdrehen"?
 4. Nur wenn später Nutzung der REPL gewünscht:  
    Aufruf von `elm-repl`, dann am Prompt das Kommando `import Main` und Test `1+1`, anschließend `:exit`.
 
