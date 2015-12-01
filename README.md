@@ -8,3 +8,7 @@ Einige hilfreiche Links:
 * alternativer [Online-Editor und -Compiler](http://share-elm.com/), leider nicht aktuelle Sprachversion
 * [Paketsammlung und Dokumentation der Bibliotheken](http://package.elm-lang.org/)
 
+---
+
+[Start](pages/Nikolaus.md)
+
