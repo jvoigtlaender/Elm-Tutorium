@@ -41,7 +41,9 @@ http://elm-lang.org/install#syntax-highlighting
 
 ## Ausprobieren
 
-(Falls es unter Windows mit den Anweisungen unten ein Problem gibt etwa mit Fehlermeldungen der Art `invalid argument (invalid character)`, in der Shell vorher `chcp 65001` ausführen.)
+Vorbemerkung: Falls es mit den Anweisungen unten ein Problem gibt etwa mit Fehlermeldungen der Art `invalid argument (invalid character)`, dann bitte in der Shell vorher ausführen:
+* unter Windows, `chcp 65001`
+* unter Unix-like, `export LANG=en_US.utf8`
 
 Folgende Schritte bitte in einem leeren Verzeichnis ausführen:
 * `elm-package install evancz/start-app -y`
@@ -51,7 +53,7 @@ Folgende Schritte bitte in einem leeren Verzeichnis ausführen:
 
 Für spätere Verwendung (etwa falls während des Tutoriums keine Internetverbindung besteht), eine Kopie des kompletten Verzeichnisses erstellen und gut aufheben.
 
-Nun Speichern einer Datei `Main.elm` mit folgendem Inhalt im aktuellen Verzeichnis:
+Nun Speichern einer Datei `Main.elm` mit folgendem Inhalt im (oben vorbereiteten) Verzeichnis:
 ```elm
 module Main where
 
