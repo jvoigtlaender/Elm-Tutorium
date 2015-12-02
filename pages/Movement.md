@@ -13,3 +13,7 @@ Hinweise:
 * Außerdem kann statt wie bisher `defaultLine : LineStyle` nun `solid : Color -> LineStyle` verwendet werden.
 * Die Koordinatensysteme für `Mouse.position` und für das Malen innerhalb eines `collage`-Aufrufs unterscheiden sich. Zum Herausfinden der Details dazu eignet sich wieder [`Debug.watch`](http://package.elm-lang.org/packages/elm-lang/core/latest/Debug#watch).
 
+---
+
+[Weiter](Counting.md)
+
