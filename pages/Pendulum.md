@@ -41,3 +41,7 @@ Hinweise:
 * Ebenfalls hilfreich wird hier das [`Time`-Modul](http://package.elm-lang.org/packages/elm-lang/core/latest/Time) sein, jedoch soll *nicht* `Time.every` verwendet werden.
 * Um besseren Einblick in das Verhalten des Programms, insbesondere Werte auf einzelnen Signalen, zu erhalten, lässt sich im Debug-Modus (Klick auf Werkzeugsymbol neben Programmname nach Aufruf von `elm-reactor`) die Funktion [`Debug.watch`](http://package.elm-lang.org/packages/elm-lang/core/latest/Debug#watch) verwenden.
 
+---
+
+[Weiter](Movement.md)
+
