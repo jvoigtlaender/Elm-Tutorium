@@ -61,3 +61,7 @@ Stelle "Mario" (`toForm (image 45 45 "http://elm-lang.org/imgs/mario/stand/right
 
 Male statt dem einen Haus drei nebeneinander stehende gleiche Häuser.
 
+---
+
+[Weiter](Pendulum.md)
+
