@@ -33,3 +33,7 @@ Ziel ist nun, das Verhalten des Programms so zu ändern, dass der Zähler mit jede
 Hinweis:
 * Das Modul [`Signal`](http://package.elm-lang.org/packages/elm-lang/core/latest/Signal) enthält interessante Funktionen, die mehr als ein Eingabesignal haben.
 
+---
+
+[Weiter](Stamping.md)
+
