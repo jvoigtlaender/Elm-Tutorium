@@ -70,3 +70,7 @@ Erklärungen:
 
 Vervollständige obiges Programmfragment, so dass insgesamt drei Knöpfe angezeigt werden, beschriftet mit "Zero", "Up", "Down", und dass der ebenfalls angezeigte Zähler mit jedem Klick auf "Zero" zurückgesetzt, jedem Klick auf "Up" erhöht und jedem Klick auf "Down" verringert wird.
 
+---
+
+[Weiter](Tasks.md)
+
