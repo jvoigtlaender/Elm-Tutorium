@@ -37,3 +37,7 @@ Hinweise:
 
 Erweitere nun das Programm, so dass nach jedem Klick der "Stempel" etwas größer wird (und in der Folge danach auch entsprechend größere Abdrücke hinterlässt).
 
+---
+
+[Weiter](Inputs.md)
+
