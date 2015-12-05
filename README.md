@@ -2,7 +2,7 @@
 
 [Abstract](Abstract.pdf)
 
-Bitte unbedingt *vor* HaL-10 [diese Vorbereitungen](pages/Prepare.md) durchführen, Probleme gegebenenfalls melden.
+Bitte unbedingt *vor* [HaL-10](http://nfa.imn.htwk-leipzig.de/HAL2015/) diese [Vorbereitungen](pages/Prepare.md) durchführen, Probleme gegebenenfalls melden.
 
 [Slide](Slide.pdf)
 
