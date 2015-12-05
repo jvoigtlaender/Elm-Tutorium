@@ -4,6 +4,8 @@
 
 Bitte unbedingt *vor* HaL-10 [diese Vorbereitungen](pages/Prepare.md) durchführen, Probleme gegebenenfalls melden.
 
+[Slide](Slide.pdf)
+
 Einige hilfreiche Links:
 * [Übersicht mit Unterschieden zu Haskell](pages/non-Haskell.md)
 * [Online-Editor und -Compiler](http://elm-lang.org/try)
