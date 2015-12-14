@@ -58,7 +58,7 @@ query name =
   Signal.send results.address
 
 port run : Signal (Task Http.Error ())
-port run = Signal.map query ...
+port run = Signal.map query (Signal.sampleOn ... ...)
 
 onInput : Address a -> (String -> a) -> Attribute
 onInput addr fun = on "input" targetValue (Signal.message addr << fun)
